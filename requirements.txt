@@ -15,4 +15,4 @@ six==1.13.0
 sqlparse==0.3.0
 wrapt==1.11.2
 openpyxl
-mysqlclient==23.2.1
+mysqlclient==2.2.0
